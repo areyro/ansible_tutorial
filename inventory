@@ -7,3 +7,6 @@
 
 [file_servers]
 192.168.1.34 ansible_user=anthony
+
+[workstations]
+192.168.1.36 ansible_user=anthony
